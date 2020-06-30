@@ -1,0 +1,4 @@
+{
+    "semi": false,//移除分号
+    "singleQuote": true//格式化使用单引号
+}
